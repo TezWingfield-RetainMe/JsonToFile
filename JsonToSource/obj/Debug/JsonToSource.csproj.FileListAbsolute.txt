@@ -1,0 +1,12 @@
+C:\GitHubProjects\JsonToXmlDemo\JsonToSource\JsonToSource\bin\Debug\JsonToSource.dll
+C:\GitHubProjects\JsonToXmlDemo\JsonToSource\JsonToSource\bin\Debug\JsonToSource.pdb
+C:\GitHubProjects\JsonToXmlDemo\JsonToSource\JsonToSource\bin\Debug\Newtonsoft.Json.xml
+C:\GitHubProjects\JsonToXmlDemo\JsonToSource\JsonToSource\obj\Debug\JsonToSource.csprojResolveAssemblyReference.cache
+C:\GitHubProjects\JsonToXmlDemo\JsonToSource\JsonToSource\obj\Debug\JsonToSource.dll
+C:\GitHubProjects\JsonToXmlDemo\JsonToSource\JsonToSource\obj\Debug\JsonToSource.pdb
+C:\GitHubProjects\JsonToXmlDemo\JsonToSourceFile\JsonToSource\bin\Debug\JsonToSource.dll
+C:\GitHubProjects\JsonToXmlDemo\JsonToSourceFile\JsonToSource\bin\Debug\JsonToSource.pdb
+C:\GitHubProjects\JsonToXmlDemo\JsonToSourceFile\JsonToSource\bin\Debug\Newtonsoft.Json.xml
+C:\GitHubProjects\JsonToXmlDemo\JsonToSourceFile\JsonToSource\obj\Debug\JsonToSource.csprojResolveAssemblyReference.cache
+C:\GitHubProjects\JsonToXmlDemo\JsonToSourceFile\JsonToSource\obj\Debug\JsonToSource.dll
+C:\GitHubProjects\JsonToXmlDemo\JsonToSourceFile\JsonToSource\obj\Debug\JsonToSource.pdb
